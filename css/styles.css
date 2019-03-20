@@ -1,0 +1,14 @@
+h2.intro {
+  font-style: italic;
+}
+
+p.intro {
+  font-weight: 900;
+}
+
+img.intro {
+  border-style: groove;
+  border-color: #587214;
+  width: 300px;
+
+}
