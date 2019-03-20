@@ -1,14 +1,15 @@
-h2.intro {
+.intro {
   font-style: italic;
+  color: lightblue;
+  width: 50%;
 }
 
-p.intro {
-  font-weight: 900;
-}
-
-img.intro {
+img {
   border-style: groove;
   border-color: #587214;
-  width: 300px;
+  width: 30%;
+}
 
+.para {
+  font-stretch: extra-expanded;
 }
